@@ -10,3 +10,4 @@ The following code is for the game Fizzbuzz. The computer plays with you via get
 
 This also used git and was pushed to git hub
 DRY was applied as well to reduce repeated statements
+The functions are also on a separate file
