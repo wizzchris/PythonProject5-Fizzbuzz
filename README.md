@@ -1,4 +1,4 @@
-# READ ME file for My.Miyagi
+# READ ME file for Fizzbuzz
 The following code is for the game Fizzbuzz. The computer plays with you via getting you to guess but can also play itself
 
 ## Here I learnt:
